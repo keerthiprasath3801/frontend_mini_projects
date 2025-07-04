@@ -1,0 +1,21 @@
+body{
+    margin:0
+}
+.icons{
+    width:100%;
+    background: black; 
+    overflow: auto;
+}
+.icons a{
+    float: left;
+    width: 20%;
+    text-align: center;
+    color: azure;
+    padding: 12px 0;
+    font-size: 2rem;
+    transition: all 0.3s ease;
+}
+.icons a:hover{
+    background: white;
+    color: black;
+}
