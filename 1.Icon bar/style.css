@@ -16,6 +16,12 @@ body{
     transition: all 0.3s ease;
 }
 .icons a:hover{
-    background: white;
-    color: black;
+    background: rgb(0, 0, 0);
+    color: cyan;
+    border-bottom: 3px solid cyan;
+}
+.icons a:active{
+    background: rgb(5, 5, 5);
+    color: cyan;
+    border-bottom: 3px solid cyan;
 }
