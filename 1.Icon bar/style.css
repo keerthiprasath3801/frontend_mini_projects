@@ -20,7 +20,7 @@ body{
     color: cyan;
     border-bottom: 3px solid cyan;
 }
-.icons a:active{
+.icons a.active{
     background: rgb(5, 5, 5);
     color: cyan;
     border-bottom: 3px solid cyan;
